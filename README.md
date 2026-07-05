@@ -1062,6 +1062,27 @@ Coding
 
 </details>
 
+## [CorvinOS](https://github.com/CorvinLabs/CorvinOS)
+Self-hosted agentic OS with EU AI Act & GDPR compliance built in
+
+<details>
+
+### Category
+General purpose, Personal assistant, Productivity, Supports open-source models
+
+### Description
+- Self-hosted agentic OS that connects local Ollama models and cloud providers (OpenAI, Anthropic, OpenRouter) to Discord, Telegram, WhatsApp, Slack, and Email.
+- EU AI Act 2026 and GDPR compliance are structural — built into the architecture, not add-ons (bot-disclosure, consent gate, hash-chained audit log, data-residency controls).
+- Multi-tenant, multi-persona architecture with a 36-layer security stack.
+- Easy install: `pip install corvinos`
+- License: Apache-2.0
+
+### Links
+- [GitHub](https://github.com/CorvinLabs/CorvinOS)
+- [Website](https://corvin-labs.com)
+
+</details>
+
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
 <details>
